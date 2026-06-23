@@ -20,7 +20,7 @@ The course is delivered through lectures, active learning sessions, programming 
 
 ## 🏢 Industry Engagements & Corporate Exposure
 
-### 🚀 Industrial Visit: PPG (Guan Hong Paint Mill)
+### 🚀 Industrial Visit: PPG 
 * **Overview:** Explored real-world automated manufacturing workflows and industrial setups. Observed how industrial operational technology (OT) data streams are managed, demonstrating the practical convergence of legacy factory telemetry with modern corporate data management architectures.
 
 ### 🌐 Industry Talk 1: izeno
