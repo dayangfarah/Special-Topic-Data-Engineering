@@ -31,6 +31,14 @@ The course is delivered through lectures, active learning sessions, programming 
 
 ---
 
+## 🏆 Projects & Coursework Deliverables
+
+### ⚙️ Highlighted Group Project: PPG Industrial Case Study Data Pipeline
+* **Overview:** Engineered a specialized data pipeline solution modeled directly on the real-world operational challenges, constraints, and business logic identified during our industrial case study engagement with **PPG**.
+* **Engineering Impact:** Handled raw manufacturing telemetry and operational technology (OT) datasets by architecting ingestion workflows designed to eliminate structural pipeline bottlenecks. Structured a clean ETL pathway that cleans and transforms messy industrial logs into aggregated, production-grade warehouse tables ready for advanced operational analytics.
+
+---
+
 ## 💭 Reflection
 
 ### What I Learned
